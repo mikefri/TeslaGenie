@@ -46,7 +46,7 @@ title: TeslaGuide — Le guide Tesla en français
 
   <div class="posts-grid">
     {% for post in site.posts limit:6 %}
-    <a href="{{ post.url }}" class="post-card">
+    <a href="{{ post.url | relative_url }}" class="post-card">
       <span class="post-tag">{{ post.category | default: "Guide" }}</span>
       <h3 class="post-title">{{ post.title }}</h3>
       <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
