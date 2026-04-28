@@ -2,7 +2,7 @@
 layout: post
 title: "Comparatif Tesla 2026 : Model 3, Y, S et X — Lequel choisir ?"
 description: "Model 3, Model Y, Model S ou Model X ? Comparatif complet 2026 sur les prix, l'autonomie et l'usage réel pour choisir la Tesla qui vous correspond vraiment."
-date: 2026-04-28
+date: 2026-04-24
 category: Modèles
 author: Michael
 image: "/assets/css/images/photo-1617788138017-80ad40651399.jpg"
