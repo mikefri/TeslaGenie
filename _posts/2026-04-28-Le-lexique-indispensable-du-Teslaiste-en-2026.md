@@ -5,7 +5,7 @@ description: "RWD, Supercharger, OTA, FSD... Ne soyez plus perdu dans le jargon 
 date: 2026-04-28
 category: Guides Pratiques
 author: Michael
-image: "/assets/css/images/glossaire-tesla.jpg"
+image: "/assets/css/images/glossaire-tesla.png"
 excerpt: "Vous venez de commander votre Tesla ou vous envisagez de le faire ? Entre acronymes techniques et fonctionnalités logicielles, voici votre guide de survie pour décrypter le langage Tesla."
 ---
 
