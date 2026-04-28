@@ -83,7 +83,9 @@ Ne vous laissez pas guider uniquement par la fiche technique. Posez-vous ces tro
 
 ---
 ### Pour aller plus loin
-* [Toutes les motorisations Tesla expliquées]({{ site.baseurl }}/motorisations-tesla/) : Pour choisir entre Propulsion, Dual Motor ou Plaid.
-* [Recharge Tesla : le guide]({{ site.baseurl }}/recharge-tesla/) : Nos astuces pour ne plus stresser sur la route.
+* [Motorisations Tesla expliquées]({{ site.baseurl }}/motorisations-tesla/) : RWD, AWD, Plaid — décryptés.
+* [Recharge Tesla : guide pratique]({{ site.baseurl }}/recharge-tesla/) : Superchargeurs et stratégie 10-80%.
+* [Model 3 Highland en conditions réelles]({{ site.baseurl }}/model-3-highland-propulsion/) : Retour d'expérience propriétaire.
+* [Lexique Tesla]({{ site.baseurl }}/lexique-tesla/) : Tous les termes techniques expliqués.
 
 *Vous souhaitez passer commande ? Pensez à utiliser [mon lien de parrainage](https://ts.la/michael618693) lors de la finalisation pour bénéficier des avantages exclusifs en vigueur au moment de votre livraison.*
