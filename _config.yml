@@ -9,7 +9,7 @@ referral_link: "https://ts.la/michael618693"
 
 # Build
 markdown: kramdown
-permalink: /blog/:title/
+permalink: /:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
