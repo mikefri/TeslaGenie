@@ -5,7 +5,7 @@ description: "Propriétaire d'une Tesla Model 3 Highland Propulsion ? Découvrez
 date: 2026-04-28
 category: Expérience Tesla
 author: Michael
-image: "/assets/css/images/photo-1617788138017-80ad40651399.jpg"
+image: "/assets/css/images/autoroutevsroute.jpg"
 excerpt: "Entre silence sur autoroute et agilité sur route secondaire, la Model 3 Highland Propulsion offre deux visages. Analyse réelle de son comportement et de sa consommation pour vos trajets de 2026."
 ---
 
