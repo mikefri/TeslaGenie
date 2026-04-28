@@ -1,6 +1,7 @@
 {
   "name": "TeslaGuide",
   "short_name": "TeslaGuide",
+  "description": "Guides, comparatifs et explications sur l'univers Tesla.",
   "icons": [
     {
       "src": "/TeslaGuide/assets/css/images/web-app-manifest-192x192.png",
@@ -10,10 +11,13 @@
     {
       "src": "/TeslaGuide/assets/css/images/web-app-manifest-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
-  "theme_color": "#e82127",
+  "theme_color": "#0071e3",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "start_url": "/TeslaGuide/",
+  "scope": "/TeslaGuide/"
 }
