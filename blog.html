@@ -22,11 +22,11 @@ pagination:
         <span class="post-tag">{{ post.category | default: "Guide" }}</span>
         <h2 class="post-title">{{ post.title }}</h2>
         <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 130 }}</p>
-        <span class="post-date">{{ post.date | date: "%d %B %Y" }}</span>
+        <span class="post-date">{{ post.date | date: "%d %b %Y" }}</span>
         <span class="post-arrow">Lire →</span>
       </div>
       {% if post.image %}
-      <div class="post-card-image" style="background-image: url('{{ post.image | prepend: site.baseurl }}')"></div>
+      <div class="post-card-image" style="background-image: url('{{ post.image | relative_url }}')"></div>
       {% else %}
       <div class="post-card-image post-card-image--empty"></div>
       {% endif %}
