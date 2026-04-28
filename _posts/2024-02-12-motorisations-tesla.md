@@ -5,7 +5,7 @@ description: "RWD, Dual Motor, Performance, Plaid : on vous explique chaque moto
 date: 2026-04-28
 category: Motorisations
 author: Michael
-image: "/assets/css/images/photo-1617788138017-80ad40651399.jpg"
+image: "/assets/css/images/motorisation.jpg"
 excerpt: "Propulsion, Dual Motor, Performance, Plaid... Tesla propose plusieurs architectures techniques. Découvrez les différences, les performances réelles et comment choisir la motorisation adaptée à vos besoins en 2026."
 ---
 
