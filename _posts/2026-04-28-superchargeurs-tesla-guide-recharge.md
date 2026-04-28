@@ -35,11 +35,11 @@ Pour une Tesla Model 3 qui consomme environ **18 kWh/100 km** sur autoroute à 1
 | Énergie | Consommation moyenne | Prix unitaire | Coût pour 100 km |
 | :--- | :--- | :--- | :--- |
 | **Essence (Thermique)** | 6,5 L/100 km | 2,00 € / L | **13,00 €** |
-| **Électrique (Superchargeur)** | 18 kWh/100 km | 0,45 € / kWh* | **8,10 €** |
+| **Électrique (Superchargeur)** | 18 kWh/100 km | 0,29 € / kWh* | **5,22 €** |
 
-*\*Moyenne constatée hors abonnement. Avec l'abonnement Tesla Premium, ce coût peut descendre encore plus bas (autour de 0,35 €/kWh).*
+*\*Exemple constaté au Superchargeur du Cap d'Agde. Les tarifs Tesla sont dynamiques et varient selon la localisation et l'heure de la journée. Vérifiez toujours le prix en direct sur l'écran de votre Tesla.*
 
-**Le constat est clair :** Même en utilisant exclusivement le réseau de Superchargeurs (la solution la plus coûteuse de l'électrique), vous réalisez une économie d'environ **35 à 40 %** sur votre budget carburant par rapport à un véhicule thermique. Si vous rechargez principalement chez vous, l'économie grimpe souvent à plus de 70 %.
+**Le constat est clair :** Même en utilisant exclusivement le réseau de Superchargeurs, vous réalisez une économie massive sur votre budget carburant par rapport à un véhicule thermique. Dans cet exemple, le coût est divisé par plus de deux. Si vous rechargez principalement chez vous, l'économie grimpe souvent à plus de 70 %.
 
 ---
 
