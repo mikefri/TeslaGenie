@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Superchargeurs Tesla : Le guide ultime pour optimiser vos recharges"
-description: "Comment fonctionne vraiment la recharge sur le réseau Tesla ? Préconditionnement, courbe de charge, astuces pour vos longs trajets... Tout ce qu'il faut savoir."
+title: "Recharge Tesla : Ne perdez plus une minute aux Superchargeurs"
+description: "Tout savoir sur les Superchargeurs : fonctionnement, préconditionnement, courbes de charge, coûts et astuces pour optimiser vos longs trajets en 2026."
 date: 2026-04-28
 category: Guides Pratiques
 author: Michael
 image: "/assets/css/images/supercharger-guide.jpg"
-excerpt: "Le réseau de Superchargeurs est l'atout numéro un de Tesla. Découvrez comment dompter la recharge rapide, le préconditionnement et pourquoi le 10-80% est votre meilleur allié."
+excerpt: "Le réseau de Superchargeurs est l'atout numéro un de Tesla. Découvrez comment dompter la recharge rapide, optimiser vos coûts et pourquoi le 10-80% est votre meilleur allié."
 ---
 
 Si le réseau de Superchargeurs Tesla est souvent cité comme l'argument majeur pour l'achat d'une Tesla, c'est pour une bonne raison : **la simplicité**. Pas d'application tierce, pas de carte RFID capricieuse, on branche et ça charge. Mais pour en tirer le meilleur parti, il y a quelques "règles d'or" à connaître, surtout sur de longs trajets comme mon habituel Nevers – Cap d'Agde.
@@ -27,15 +27,19 @@ La recharge n'est pas linéaire. La vitesse de charge est maximale quand la batt
 * **Au-delà de 80% :** La voiture ralentit volontairement la charge pour protéger la chimie des cellules. Charger de 80% à 100% peut prendre autant de temps que de passer de 10% à 50%.
 * **Stratégie de trajet :** Sur mon trajet vers le Cap d'Agde, je préfère faire deux arrêts courts de 15 minutes (arriver avec 10-15% et repartir à 60-70%) plutôt qu'un arrêt long où je cherche à atteindre les 100%. C'est mathématique : c'est plus rapide.
 
-## 3. L'expérience "Plug & Charge"
-Avec Tesla, l'expérience utilisateur est inégalée. 
-1. Vous arrivez au Superchargeur.
-2. Vous branchez le câble.
-3. La voiture communique avec la borne.
-4. La charge démarre.
-5. La facturation est automatique via votre compte enregistré.
+## 3. Le vrai comparatif budgétaire : Électrique vs Essence
+C'est la question que tout le monde se pose. Avec un prix de l'essence SP95-E10 avoisinant les **2,00 €/L** en ce moment et une moyenne de consommation de **6,5 L/100 km** pour une berline thermique équivalente, le coût est sans appel.
 
-C’est cette fluidité qui transforme une contrainte (la recharge) en une simple pause café.
+Pour une Tesla Model 3 qui consomme environ **18 kWh/100 km** sur autoroute à 130 km/h :
+
+| Énergie | Consommation moyenne | Prix unitaire | Coût pour 100 km |
+| :--- | :--- | :--- | :--- |
+| **Essence (Thermique)** | 6,5 L/100 km | 2,00 € / L | **13,00 €** |
+| **Électrique (Superchargeur)** | 18 kWh/100 km | 0,45 € / kWh* | **8,10 €** |
+
+*\*Moyenne constatée hors abonnement. Avec l'abonnement Tesla Premium, ce coût peut descendre encore plus bas (autour de 0,35 €/kWh).*
+
+**Le constat est clair :** Même en utilisant exclusivement le réseau de Superchargeurs (la solution la plus coûteuse de l'électrique), vous réalisez une économie d'environ **35 à 40 %** sur votre budget carburant par rapport à un véhicule thermique. Si vous rechargez principalement chez vous, l'économie grimpe souvent à plus de 70 %.
 
 ---
 
