@@ -5,7 +5,7 @@ description: "Tout savoir sur les Superchargeurs : fonctionnement, précondition
 date: 2026-04-28
 category: Guides Pratiques
 author: Michael
-image: "/assets/css/images/supercharger-guide.jpg"
+image: "/assets/css/images/supercharger-guide.png"
 excerpt: "Le réseau de Superchargeurs est l'atout numéro un de Tesla. Découvrez comment dompter la recharge rapide, optimiser vos coûts et pourquoi le 10-80% est votre meilleur allié."
 ---
 
