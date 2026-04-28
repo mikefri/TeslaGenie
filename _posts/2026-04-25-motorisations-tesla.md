@@ -92,5 +92,9 @@ La motorisation **Plaid** est le porte-étendard de la technologie Tesla, réser
 > **Note importante** : Tesla fait régulièrement évoluer ses prix, ses autonomies (homologation WLTP) et ses équipements de série. Ces informations sont données à titre indicatif. Avant tout achat, **consultez impérativement le configurateur officiel sur le site de Tesla** pour obtenir les données précises pour votre marché.
 
 ---
+### À lire également
+* [Comparatif Tesla 2026]({{ site.baseurl }}/comparatif-modeles-tesla/) : Quel modèle choisir selon votre usage ?
+* [Lexique Tesla]({{ site.baseurl }}/lexique-tesla/) : Besoin de comprendre un acronyme technique ?
 
+---
 *Quelle que soit la motorisation choisie, n'oubliez pas d'utiliser [mon lien de parrainage](https://ts.la/michael618693) lors de votre commande pour bénéficier des avantages en vigueur au moment de la livraison.*
