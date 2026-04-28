@@ -86,5 +86,4 @@ Ne vous laissez pas guider uniquement par la fiche technique. Posez-vous ces tro
 * [Toutes les motorisations Tesla expliquées]({{ site.baseurl }}/motorisations-tesla/) : Pour choisir entre Propulsion, Dual Motor ou Plaid.
 * [Recharge Tesla : le guide]({{ site.baseurl }}/recharge-tesla/) : Nos astuces pour ne plus stresser sur la route.
 
----
 *Vous souhaitez passer commande ? Pensez à utiliser [mon lien de parrainage](https://ts.la/michael618693) lors de la finalisation pour bénéficier des avantages exclusifs en vigueur au moment de votre livraison.*
