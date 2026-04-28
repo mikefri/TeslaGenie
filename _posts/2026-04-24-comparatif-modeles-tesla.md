@@ -48,6 +48,8 @@ Si vous avez des enfants ou un besoin d'espace régulier, le Model Y est le choi
 
 ---
 
+"Le choix du modèle n'est que la première étape. Pour comprendre ce qui se cache sous le capot (RWD, AWD, Plaid), consultez notre guide complet sur toutes les motorisations Tesla expliquées."
+
 ## Model S — Le porte-étendard technologique
 
 Le **Model S** demeure la référence du segment des berlines de luxe électriques. Avec une gestion thermique poussée et une suspension adaptative, elle est conçue pour avaler les kilomètres dans un confort royal.
