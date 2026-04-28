@@ -20,6 +20,8 @@ Vous avez peut-être remarqué que lorsque vous naviguez vers un Superchargeur, 
 * **Le rôle de la voiture :** La Tesla va chauffer (ou refroidir) activement la batterie pendant que vous roulez vers le Superchargeur.
 * **Le conseil de propriétaire :** **Utilisez toujours le planificateur de trajet Tesla.** Même si vous connaissez la route par cœur, configurez le Superchargeur comme destination. Si vous arrivez avec une batterie froide, la vitesse de charge sera bridée, et vous perdrez un temps précieux.
 
+Cette gestion de la charge est d'autant plus importante lors de longs trajets. Découvrez comment j'applique ces conseils au quotidien sur mon trajet habituel dans mon article sur le [comportement de la Model 3 sur autoroute](/tesla-model-3-highland-autoroute-vs-route/).
+
 ## 2. La règle d'or : La courbe de charge (10-80%)
 La recharge n'est pas linéaire. La vitesse de charge est maximale quand la batterie est presque vide, puis diminue progressivement.
 
