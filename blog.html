@@ -19,7 +19,7 @@ title: Articles — TeslaGuide
         <span class="post-arrow">Lire →</span>
       </div>
       {% if post.image %}
-      <div class="post-card-image" style="background-image: url('{{ post.image }}')"></div>
+      <div class="post-card-image" style="background-image: url('{{ post.image | prepend: site.baseurl }}')"></div>
       {% else %}
       <div class="post-card-image post-card-image--empty"></div>
       {% endif %}
