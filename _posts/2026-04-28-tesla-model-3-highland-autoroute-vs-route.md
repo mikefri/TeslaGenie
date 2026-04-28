@@ -55,4 +55,8 @@ La Tesla Model 3 Highland Propulsion est une voiture à deux facettes.
 **Le conseil de propriétaire :** Ne craignez jamais l'autoroute avec la version Propulsion, même pour de longs trajets comme un Nevers - Cap d'Agde. Elle est parfaitement capable de traverser la France. Simplement, acceptez de laisser le planificateur gérer vos pauses : c'est le secret pour voyager sereinement sans jamais stresser pour la batterie.
 
 ---
+### Ces articles pourraient vous intéresser
+* [Recharge Tesla : guide pratique]({{ site.baseurl }}/recharge-tesla/) : Optimisez vos temps de pause.
+* [Comparatif des modèles Tesla]({{ site.baseurl }}/comparatif-modeles-tesla/) : La référence pour bien choisir.
+---
 *Quelle que soit la route que vous choisissez, n'oubliez pas d'utiliser [mon lien de parrainage](https://ts.la/michael618693) lors de votre prochaine commande ou pour vos futurs accessoires/accessions à l'écosystème Tesla pour bénéficier des avantages en vigueur !*
