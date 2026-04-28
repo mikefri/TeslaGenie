@@ -21,6 +21,8 @@ Les motorisations se divisent aujourd'hui en quatre grandes familles.
 
 ### 1. Propulsion — Le moteur arrière seul (RWD)
 
+![Schéma technique d'une Tesla Propulsion avec son moteur arrière unique](/assets/images/motorisation-tesla-rwd-rear-motor.jpg)
+
 La motorisation **Propulsion** (Rear-Wheel Drive) utilise un moteur unique positionné sur l'essieu arrière. C'est l'entrée de gamme, mais elle offre déjà un agrément de conduite typé "sportive" grâce à la répartition du couple.
 
 * **Configuration** : 1 moteur électrique arrière.
@@ -28,7 +30,11 @@ La motorisation **Propulsion** (Rear-Wheel Drive) utilise un moteur unique posit
 * **Points forts** : Efficience énergétique, poids réduit, prix compétitif.
 * **Idéal pour** : Les conducteurs urbains et périurbains cherchant le meilleur ratio budget/plaisir.
 
+---
+
 ### 2. Grande Autonomie — Dual Motor AWD
+
+![Schéma technique d'une Tesla Grande Autonomie avec son architecture Dual Motor (avant et arrière)](/assets/images/motorisation-tesla-awd-dual-motor.jpg)
 
 La version **Grande Autonomie** ajoute un second moteur à l'avant, transformant la voiture en quatre roues motrices (AWD). Ce n'est pas seulement une question de traction, c'est aussi un gain substantiel en gestion de l'énergie.
 
@@ -37,7 +43,11 @@ La version **Grande Autonomie** ajoute un second moteur à l'avant, transformant
 * **Points forts** : Polyvalence maximale, meilleure stabilité par temps dégradé, autonomie optimisée pour les longs trajets.
 * **Idéal pour** : Les familles et les gros rouleurs qui ont besoin de sérénité, quel que soit le climat ou la distance.
 
+---
+
 ### 3. Performance — L'optimisation dynamique
+
+![Une Tesla Model 3 Performance en action sur un circuit](/assets/images/motorisation-tesla-performance-track.jpg)
 
 La version **Performance** reprend l'architecture Dual Motor de la Grande Autonomie, mais pousse les composants à leur paroxysme. Suspension abaissée, freins renforcés, refroidissement accru et une cartographie moteur libérée.
 
@@ -46,7 +56,11 @@ La version **Performance** reprend l'architecture Dual Motor de la Grande Autono
 * **Points forts** : Accélérations brutales, comportement routier dynamique, look plus agressif.
 * **Idéal pour** : Les passionnés qui souhaitent un véhicule quotidien capable d'offrir des sensations fortes sur route sinueuse ou lors de sessions sur circuit.
 
+---
+
 ### 4. Plaid — Trois moteurs, le summum
+
+![Schéma technique Tri-Motor de la Tesla Model S Plaid, le summum de la performance](/assets/images/motorisation-tesla-plaid-tri-motor.jpg)
 
 La motorisation **Plaid** est le porte-étendard de la technologie Tesla, réservée aux modèles haut de gamme (S et X). Avec trois moteurs — un à l'avant, deux à l'arrière avec *torque vectoring* — elle redéfinit les standards de l'accélération automobile.
 
