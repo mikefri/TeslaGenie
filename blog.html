@@ -10,13 +10,20 @@ title: Articles — TeslaGuide
 <div class="blog-list">
   <div class="posts-grid">
     {% for post in site.posts %}
-    <a href="{{ post.url | relative_url }}" class="post-card">
-      <span class="post-tag">{{ post.category | default: "Guide" }}</span>
-      <h2 class="post-title">{{ post.title }}</h2>
-      <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 130 }}</p>
-      <span class="post-date">{{ post.date | date: "%d %B %Y" }}</span>
-      <span class="post-arrow">Lire →</span>
-    </a>
+<a href="{{ post.url | relative_url }}" class="post-card">
+  <div class="post-card-content">
+    <span class="post-tag">{{ post.category | default: "Guide" }}</span>
+    <h2 class="post-title">{{ post.title }}</h2>
+    <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 130 }}</p>
+    <span class="post-date">{{ post.date | date: "%d %B %Y" }}</span>
+    <span class="post-arrow">Lire →</span>
+  </div>
+  {% if post.image %}
+  <div class="post-card-image" style="background-image: url('{{ post.image }}')"></div>
+  {% else %}
+  <div class="post-card-image post-card-image--empty"></div>
+  {% endif %}
+</a>
     {% endfor %}
   </div>
 </div>
