@@ -7,13 +7,11 @@ pagination:
   per_page: 6
   permalink: '/blog/page/:num/'
 ---
-
 <div class="blog-header">
   <p class="section-eyebrow">Base de connaissance</p>
   <h1 class="section-title">Tous les articles</h1>
   <p class="section-sub" style="margin: 0 auto;">Guides, comparatifs et explications sur l'univers Tesla.</p>
 </div>
-
 <div class="blog-list">
   <div class="posts-grid">
     {% for post in paginator.posts %}
@@ -33,15 +31,12 @@ pagination:
     </a>
     {% endfor %}
   </div>
-
   {% if paginator.total_pages > 1 %}
   <div class="pagination" style="margin-top: 3rem; text-align: center;">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | relative_url }}" class="btn-secondary">← Précédent</a>
     {% endif %}
-
     <span style="margin: 0 15px;">Page {{ paginator.page }} sur {{ paginator.total_pages }}</span>
-
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | relative_url }}" class="btn-secondary">Suivant →</a>
     {% endif %}
