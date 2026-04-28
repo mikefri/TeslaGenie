@@ -23,14 +23,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate-v2  # <--- Ajouté ici
+  - jekyll-paginate
 
 # Configuration de la pagination
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/'
-  title: ':title - page :num'
+paginate: 6
+paginate_path: "/blog/page/:num/"
 
 # Defaults
 defaults:
