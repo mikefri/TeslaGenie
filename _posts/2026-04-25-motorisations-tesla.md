@@ -93,7 +93,8 @@ La motorisation **Plaid** est le porte-étendard de la technologie Tesla, réser
 
 ---
 ### À lire également
-* [Comparatif Tesla 2026]({{ site.baseurl }}/comparatif-modeles-tesla/) : Quel modèle choisir selon votre usage ?
-* [Lexique Tesla]({{ site.baseurl }}/lexique-tesla/) : Besoin de comprendre un acronyme technique ?
+* [Comparatif des modèles Tesla]({{ site.baseurl }}/comparatif-modeles-tesla/) : Quel modèle vous correspond ?
+* [Model 3 Highland en conditions réelles]({{ site.baseurl }}/model-3-highland-propulsion/) : La Propulsion (RWD) à l'épreuve du terrain.
+* [Lexique Tesla]({{ site.baseurl }}/lexique-tesla/) : RWD, AWD, Plaid… tous les termes expliqués.
 
 *Quelle que soit la motorisation choisie, n'oubliez pas d'utiliser [mon lien de parrainage](https://ts.la/michael618693) lors de votre commande pour bénéficier des avantages en vigueur au moment de la livraison.*
