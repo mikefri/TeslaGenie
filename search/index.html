@@ -1,0 +1,29 @@
+---
+layout: default
+title: Recherche — TeslaGuide
+---
+<section class="section" style="min-height: 60vh;">
+  <p class="section-eyebrow">Recherche</p>
+  <h2 class="section-title" id="search-heading">Résultats</h2>
+
+  <div style="max-width: 540px; margin: 2rem 0 3rem;">
+    <form action="/search/" method="get" role="search">
+      <input
+        id="search-input"
+        name="q"
+        type="search"
+        placeholder="Ex : recharge en hiver, mise à jour…"
+        autocomplete="off"
+        style="width:100%; padding: 0.75rem 1rem; font-size: 1rem;
+               border: 1px solid var(--grey); border-radius: 8px;
+               background: var(--bg2, #111); color: inherit;"
+      />
+    </form>
+  </div>
+
+  <div id="search-results" class="posts-grid">
+    <p class="search-empty">Chargement…</p>
+  </div>
+</section>
+
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
