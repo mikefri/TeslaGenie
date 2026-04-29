@@ -59,7 +59,7 @@ En 2026, environ **75 % des stations françaises** sont "Ouvertes à tous". Tout
 
 ## Tarifs 2026 : combien ça coûte ?
 
-Tesla applique une **tarification dynamique** selon l'affluence et l'emplacement.
+Tesla applique une tarification dynamique selon l'affluence et l'emplacement : à la station d'Agde (située vers l'Hyper U), le tarif est par exemple de seulement 0,29 €/kWh en ce mois d'avril 2026.
 
 | Profil | Tarif moyen au kWh |
 | :--- | :--- |
