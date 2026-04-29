@@ -1,3 +1,5 @@
+---
+---
 (function () {
   const params = new URLSearchParams(window.location.search);
   const query  = (params.get("q") || "").trim().toLowerCase();
@@ -12,7 +14,8 @@
     return;
   }
 
-  fetch("/search.json")
+  // ← L'URL tient compte du baseurl automatiquement
+  fetch("{{ '/search.json' | relative_url }}")
     .then(r => r.json())
     .then(posts => {
       const words = query.split(/\s+/).filter(Boolean);
