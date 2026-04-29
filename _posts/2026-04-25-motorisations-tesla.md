@@ -6,7 +6,7 @@ permalink: /motorisations-tesla/
 date: 2026-04-25
 category: Motorisations
 author: Michael
-image: "/assets/css/images/motorisation.jpg"
+image: "/assets/css/images/motorisation.webp"
 excerpt: "Propulsion, Dual Motor, Performance, Plaid... Tesla propose plusieurs architectures techniques. Découvrez les différences, les performances réelles et comment choisir la motorisation adaptée à vos besoins en 2026."
 ---
 
