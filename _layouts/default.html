@@ -48,11 +48,54 @@
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
 
-  <!-- ── Styles navbar / recherche ── -->
+  <!-- ── Styles globaux (navbar, recherche, filtres) ── -->
   <style>
-    .navbar        { position: relative; }
-    mark           { background: rgba(0,113,227,.22); color: inherit; border-radius: 2px; padding: 0 2px; }
-    .search-empty  { color: var(--grey); font-size: 1rem; margin: 2rem 0; }
+    .navbar       { position: relative; }
+    mark          { background: rgba(0,113,227,.22); color: inherit; border-radius: 2px; padding: 0 2px; }
+    .search-empty { color: var(--grey); font-size: 1rem; margin: 2rem 0; }
+
+    /* ── Filtres catégories ── */
+    .filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 2.5rem 0 1rem;
+    }
+    .filter-btn {
+      padding: 0.45rem 1.1rem;
+      border-radius: 100px;
+      border: 1px solid var(--grey);
+      background: transparent;
+      color: inherit;
+      font-family: inherit;
+      font-size: 0.85rem;
+      letter-spacing: 0.04em;
+      cursor: pointer;
+      transition: background 0.2s, border-color 0.2s, color 0.2s;
+    }
+    .filter-btn:hover  { border-color: #fff; }
+    .filter-btn.active { background: #fff; border-color: #fff; color: #000; }
+    .filter-count {
+      font-size: 0.8rem;
+      color: var(--grey);
+      margin-bottom: 2rem;
+      letter-spacing: 0.05em;
+    }
+
+    /* ── Footer réseaux sociaux ── */
+    .footer-social {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin: 1rem 0;
+    }
+    .footer-social a {
+      color: var(--grey);
+      transition: color 0.2s;
+      display: flex;
+      align-items: center;
+    }
+    .footer-social a:hover { color: #fff; }
   </style>
 
   <!-- ── JSON-LD ── -->
@@ -81,12 +124,12 @@
   {% else %}
   <script type="application/ld+json">
   {
-    "@context":   "https://schema.org",
-    "@type":      "WebSite",
-    "name":       "TeslaGuide",
-    "url":        "{{ site.url }}{{ site.baseurl }}",
-    "description":"{{ site.description | escape }}",
-    "inLanguage": "fr-FR",
+    "@context":    "https://schema.org",
+    "@type":       "WebSite",
+    "name":        "TeslaGuide",
+    "url":         "{{ site.url }}{{ site.baseurl }}",
+    "description": "{{ site.description | escape }}",
+    "inLanguage":  "fr-FR",
     "potentialAction": {
       "@type":       "SearchAction",
       "target":      "{{ site.url }}{{ site.baseurl }}/search/?q={search_term_string}",
@@ -170,35 +213,35 @@
   <!-- ════════════════════════════════
        FOOTER
   ════════════════════════════════ -->
-<footer class="footer">
-  <div class="footer-inner">
-    <p class="footer-logo">TESLA<span>GUIDE</span></p>
-    <p class="footer-sub">Un site indépendant, non affilié à Tesla Inc.</p>
-    
-    <!-- Section Réseaux Sociaux -->
-    <div class="footer-social">
-      <a href="https://x.com/MikefriTesla" target="_blank" rel="noopener noreferrer" aria-label="Suivez TeslaGuide sur X">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-        </svg>
-      </a>
-    </div>
+  <footer class="footer">
+    <div class="footer-inner">
+      <p class="footer-logo">TESLA<span>GUIDE</span></p>
+      <p class="footer-sub">Un site indépendant, non affilié à Tesla Inc.</p>
 
-    <nav class="footer-nav">
-      <a href="{{ '/' | relative_url }}">Accueil</a>
-      <a href="{{ '/blog/' | relative_url }}">Articles</a>
-      <a href="{{ '/' | relative_url }}#parrainage">Parrainage</a>
-      <!-- Vous pourriez aussi ajouter le lien Contact ici -->
-      <a href="https://x.com/MikefriTesla" target="_blank">Contact</a>
-    </nav>
-    
-    <p class="footer-copy">© {{ 'now' | date: "%Y" }} TeslaGuide</p>
-  </div>
-</footer>
+      <div class="footer-social">
+        <a href="https://x.com/MikefriTesla" target="_blank" rel="noopener noreferrer" aria-label="Suivez TeslaGuide sur X">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+          </svg>
+        </a>
+      </div>
+
+      <nav class="footer-nav">
+        <a href="{{ '/' | relative_url }}">Accueil</a>
+        <a href="{{ '/blog/' | relative_url }}">Articles</a>
+        <a href="{{ '/' | relative_url }}#parrainage">Parrainage</a>
+        <a href="https://x.com/MikefriTesla" target="_blank" rel="noopener noreferrer">Contact</a>
+      </nav>
+
+      <p class="footer-copy">© {{ 'now' | date: "%Y" }} TeslaGuide</p>
+    </div>
+  </footer>
 
   <!-- ════════════════════════════════
-       SCRIPT NAVBAR / RECHERCHE
+       SCRIPTS
   ════════════════════════════════ -->
+
+  <!-- Navbar / recherche -->
   <script>
     (function () {
       const btn = document.getElementById('nav-search-btn');
@@ -216,7 +259,6 @@
         if (e.key === 'Escape') box.style.display = 'none';
       });
 
-      /* Ferme la barre si clic en dehors */
       document.addEventListener('click', function (e) {
         if (!btn.contains(e.target) && !box.contains(e.target)) {
           box.style.display = 'none';
@@ -224,6 +266,16 @@
       });
     })();
   </script>
+
+  <!-- Filtres catégories (page /blog/ uniquement) -->
+  {% if page.url contains '/blog' %}
+  <script src="{{ '/assets/js/filters.js' | relative_url }}"></script>
+  {% endif %}
+
+  <!-- Recherche (page /search/ uniquement) -->
+  {% if page.url contains '/search' %}
+  <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+  {% endif %}
 
 </body>
 </html>
