@@ -21,15 +21,30 @@ self.addEventListener('activate', e => {
   self.clients.claim();
 });
 
-self.addEventListener('fetch', e => {
-  if (e.request.method !== 'GET') return;
-  e.respondWith(
-    caches.match(e.request).then(cached => {
-      const network = fetch(e.request).then(res => {
-        caches.open(CACHE).then(c => c.put(e.request, res.clone()));
-        return res;
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request).then(cached => {
+      if (cached) return cached;
+
+      return fetch(event.request).then(response => {
+        // Vérification avant de mettre en cache
+        if (
+          !response ||
+          response.status !== 200 ||
+          response.type === 'opaque'
+        ) {
+          return response; // on retourne sans cacher
+        }
+
+        // On clone AVANT de consommer le body
+        const responseToCache = response.clone();
+
+        caches.open('teslaguide-v1').then(cache => {
+          cache.put(event.request, responseToCache);
+        });
+
+        return response;
       });
-      return cached || network;
     })
   );
 });
