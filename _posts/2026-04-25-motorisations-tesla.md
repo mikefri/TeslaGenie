@@ -4,7 +4,7 @@ title: "Toutes les motorisations Tesla expliquées : RWD, AWD, Performance et Pl
 description: "RWD, Dual Motor, Performance, Plaid : on vous explique chaque motorisation Tesla, leurs différences réelles et comment choisir la bonne en 2026 selon votre usage et votre budget."
 permalink: /motorisations-tesla/
 date: 2026-04-25
-category: Motorisations
+category: Conseils d'achat
 author: Michael
 image: "/assets/css/images/motorisation.webp"
 excerpt: "Propulsion, Dual Motor, Performance, Plaid... Tesla propose plusieurs architectures techniques. Découvrez les différences, les performances réelles et comment choisir la motorisation adaptée à vos besoins en 2026."
