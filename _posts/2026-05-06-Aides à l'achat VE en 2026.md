@@ -32,6 +32,9 @@ Le montant dépend de votre **revenu fiscal de référence (RFR) par part**, que
 | Ménages modestes | 16 301 € à 26 300 € | **4 700 €** | 4 200 € |
 | Autres ménages | > 26 300 € | **3 500 €** | 3 100 € |
 
+![Illustration bonus écologique 2026 - aide financière véhicule électrique](/assets/css/images/IMAGE-1.webp)
+*Les montants ont été revalorisés en 2026 par rapport à l'année précédente.*
+
 ### Le surbonus batterie européenne
 
 Une prime complémentaire entre **1 200 € et 2 000 €** est accordée si la batterie du véhicule a été produite en Europe. Son montant exact varie selon le cours des CEE et les négociations entre fournisseurs d'énergie et constructeurs. C'est précisément là que la Model Y (Berlin) a une carte à jouer.
@@ -60,6 +63,9 @@ Produite à la **Gigafactory de Shanghai**, la Model 3 ne passe pas le seuil de 
 
 C'est la bonne surprise. La Model Y est produite à la **Gigafactory Berlin** : elle obtient un score ADEME suffisant, et contrairement à ce que beaucoup pensent, **ce n'est pas uniquement la Propulsion qui passe le filtre**. L'ADEME liste comme éligibles plusieurs variantes Grande Autonomie (LR RWD), dont le Nouveau Model Y Grande Autonomie Propulsion.
 
+![Tesla Model Y Gigafactory Berlin](/assets/css/images/IMAGE-2.webp)
+*La Model Y produite à Berlin est la seule Tesla réellement dans la course pour le bonus 2026.*
+
 **Le vrai point de bascule, c'est le prix.** Avec le seuil fixé à 47 000 € TTC, tout se joue à quelques centaines d'euros près selon la configuration choisie :
 
 | Version | Score ADEME | Prix indicatif | Prime CEE |
@@ -70,10 +76,10 @@ C'est la bonne surprise. La Model Y est produite à la **Gigafactory Berlin** : 
 
 *Mon conseil :* configurez votre Model Y sur le site Tesla, notez le prix TTC final, et vérifiez la liste ADEME avant de signer. L'éligibilité peut aussi évoluer d'un trimestre à l'autre selon les cours des CEE.
 
-
-Non commercialisé en France en configuration éligible, et bien au-dessus du plafond de prix.
-
 ## Le leasing social 2026 : Tesla absent du catalogue
+
+![Illustration leasing social juillet 2026](/assets/css/images/IMAGE-3.webp)
+*Le leasing social revient en juillet 2026 — mais sans Tesla dans le catalogue.*
 
 Le leasing social revient en **juillet 2026** avec 100 000 véhicules — 50 000 pour les particuliers modestes, 50 000 pour les professionnels gros rouleurs (infirmières, artisans, aides à domicile). Le reste à charge visé : **100 à 200 € par mois**, sans apport.
 
@@ -93,10 +99,9 @@ Tesla ne figure pas dans le catalogue. Ce dispositif cible des véhicules aborda
 | Model Y Grande Autonomie (Berlin) | ✅ | ⚠️ Selon options | ⚠️ À vérifier |
 | Model Y Performance | ✅ | ❌ | ❌ |
 
+La Model Y Berlin reste le modèle Tesla le mieux placé pour bénéficier des aides en 2026 — et davantage de versions que prévu passent le filtre ADEME. Tout se joue sur le prix final configuré. Si vous hésitez encore sur la version à choisir, notre [comparatif des modèles Tesla](/comparatif-modeles-tesla/) peut vous aider à trancher.
 
-La Model Y Berlin reste le modèle Tesla le mieux placé pour bénéficier des aides en 2026 — et davantage de versions que prévu passent le filtre ADEME. Tout se joue sur le prix final configuré. 
-
-
+*Vous avez configuré une Model Y et vous voulez savoir si votre version est éligible ? Partagez votre configuration en commentaire, je vérifie avec vous.*
 
 ---
 
