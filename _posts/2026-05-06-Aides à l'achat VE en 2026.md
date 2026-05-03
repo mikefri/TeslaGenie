@@ -70,11 +70,6 @@ C'est la bonne surprise. La Model Y est produite à la **Gigafactory Berlin** : 
 
 *Mon conseil :* configurez votre Model Y sur le site Tesla, notez le prix TTC final, et vérifiez la liste ADEME avant de signer. L'éligibilité peut aussi évoluer d'un trimestre à l'autre selon les cours des CEE.
 
-### Tesla Model S / Model X → ❌ Non éligibles
-
-Leurs tarifs dépassent largement le plafond de 47 000 €. La question ne se pose pas.
-
-### Tesla Cybertruck → ❌ Non éligible
 
 Non commercialisé en France en configuration éligible, et bien au-dessus du plafond de prix.
 
