@@ -1,8 +1,8 @@
 # Informations globales
-title: "TeslaGuide — Le guide Tesla en français"
+title: "TeslaGenie — Le guide Tesla en français"
 description: "Guides, comparatifs et conseils pour acheter et utiliser une Tesla en France. Modèles, recharge, coûts, parrainage."
 url: "https://mikefri.github.io"
-baseurl: "/TeslaGuide"
+baseurl: "/TeslaGenie"
 lang: fr
 author: "Michael"
 
