@@ -8,7 +8,7 @@
 
 ## À propos
 
-**TeslaGuide** est un blog personnel conçu pour aider les francophones à mieux comprendre l'univers Tesla avant et après l'achat. Face à la masse d'informations disponibles en anglais, l'objectif est simple : proposer des guides clairs, honnêtes et pratiques, rédigés en français.
+**TeslaGenie** est un blog personnel conçu pour aider les francophones à mieux comprendre l'univers Tesla avant et après l'achat. Face à la masse d'informations disponibles en anglais, l'objectif est simple : proposer des guides clairs, honnêtes et pratiques, rédigés en français.
 
 Le site couvre :
 
