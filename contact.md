@@ -275,8 +275,8 @@ permalink: /contact/
   <!-- Colonne droite : formulaire -->
   <div class="contact-form-wrap">
 
-    <!-- Formulaire (Formspree — remplace YOUR_FORM_ID) -->
-    <form id="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    
+    <form id="contact-form" action="https://formspree.io/f/mykoebln" method="POST">
 
       <div class="form-row">
         <div class="form-group">
