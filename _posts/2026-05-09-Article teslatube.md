@@ -11,7 +11,7 @@ image: /assets/css/images/teslatube.png
 
 # TeslaTube : le lecteur de musique YouTube qui ressemble à Spotify
 
-**Et si vous pouviez profiter de l'interface de Spotify… mais avec tout YouTube derrière ?** C'est exactement le pari de TeslaTube, une application web gratuite qui transforme votre navigateur en véritable lecteur de musique.
+**Et si vous pouviez profiter de l'interface de Spotify… mais avec tout YouTube derrière ?** C'est exactement le pari de [TeslaTube](https://mikefri.github.io/teslatube/), une application web gratuite qui transforme votre navigateur en véritable lecteur de musique.
 
 ---
 
@@ -79,4 +79,4 @@ L'application nécessite uniquement une clé YouTube Data API (gratuite jusqu'à
 
 TeslaTube ne cherche pas à remplacer Spotify. Il comble un vide : offrir une **expérience d'écoute soignée** pour ceux qui utilisent YouTube comme source musicale principale. Interface familière, synchronisation cloud, PWA installable — pour une application gratuite et open source, le résultat est bluffant.
 
-> **TeslaTube** est disponible sur GitHub. Stack : HTML / CSS / JavaScript vanilla · YouTube IFrame API · Firebase Auth & Firestore.
+> 🔗 **Essayez TeslaTube** : [mikefri.github.io/teslatube](https://mikefri.github.io/teslatube/) — Stack : HTML / CSS / JavaScript vanilla · YouTube IFrame API · Firebase Auth & Firestore.
