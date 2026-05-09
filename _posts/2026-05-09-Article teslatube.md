@@ -6,7 +6,7 @@ permalink: /teslatube-lecteur-musique-youtube/
 date: 2026-05-09
 category: "Projet"
 author: "Michael"
-image: /assets/css/images/teslatube.webp
+image: /assets/css/images/teslatube.png
 ---
 
 # TeslaTube : le lecteur de musique YouTube qui ressemble à Spotify
